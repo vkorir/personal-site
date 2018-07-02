@@ -1,0 +1,253 @@
+.hs-inner .mainpage_title:after,
+.singlepage-title:after {
+	background: #e59400;
+}
+
+a.hs-totop-link {
+	background: #e59400;
+}
+
+.hs-inner .before-title {
+	color: #e59400;
+}
+
+.hs-menu nav .active-sec .fa {
+	background: #e59400;
+}
+
+.hs-headline fa,
+.hs-menu nav .fa {
+	border-radius: 50%;
+}
+
+.hs-headline .download {
+	background: #e59400;
+}
+
+.aside1 a {
+	color: #e59400;
+}
+
+.aside1 a:hover {
+	background: #e59400;
+}
+
+.aside1 .aside-content .part1 {
+	color: #e59400;
+}
+
+#header .news-scroll span {
+	background: #e59400;
+}
+
+#header .news-scroll span:before {
+	border-left: 50px solid #e59400;
+}
+
+.tabs-left>.nav-tabs>li>a {
+	background: #e59400;
+}
+
+.tabs-left>.nav-tabs>li>a:hover,
+.tabs-left>.nav-tabs>li>a:focus {
+	background: #e59400;
+}
+
+.tab-pane h4 {
+	color: #e59400;
+}
+
+.resume>li>.resume-tag {
+	background: #e59400;
+}
+
+.resume h4 {
+	color: #e59400;
+}
+
+.bar-main-container {
+	background: #e59400;
+}
+
+.publication_item .date {
+	background: #e59400;
+}
+
+.media h4 {
+	color: #e59400;
+}
+
+.label-pub {
+	background: #e59400;
+}
+
+.publication-detail .ext_link {
+	background: #e59400;
+}
+
+.publication-detail .ext_link:hover {
+	color: #e59400;
+}
+
+.team-card-container h3 {
+	color: #e59400;
+}
+
+.team-card-container .back .social-icons a {
+	background: #e59400;
+}
+
+.slide-header h4 {
+	color: #e59400;
+}
+
+.slider-details {
+	background: #e59400;
+}
+
+.teaching-section .teaching>li>.teaching-tag {
+	background: #e59400;
+}
+
+.teaching-section .teaching h4 {
+	color: #e59400;
+}
+
+.work_desc .ext_link {
+	background: #e59400;
+}
+
+.work_desc .ext_link:hover {
+	color: #e59400;
+}
+
+.portfocount_container {
+	background: #e59400;
+}
+
+.contact-section #contact_form .submit_btn:hover {
+	color: #e59400;
+	border: 1px solid #e59400;
+}
+
+.contact-section .contact_info h3 {
+	color: #e59400;
+}
+
+.pace .pace-progress {
+	background: #e59400;
+}
+
+.pricing-table-wrapper .pricing-table-header h3 {
+	background: #e59400;
+}
+
+.proceess_wrap #progressbar li.active:before,
+.proceess_wrap #progressbar li.active:after {
+	background: #e59400;
+}
+
+.portfolio-wrapper figure .label {
+	background: #e59400;
+}
+
+.mypost_pagination_loop ul .current {
+	color: #e59400;
+}
+
+.service-section .serv-wrap .servicelistt ul li {
+	background-color: #e59400;
+}
+
+.service-section .serv-wrap .serv-icons {
+	background-color: #e59400;
+}
+
+.sticky .featured {
+	border-top: 40px solid #e59400;
+}
+
+.verticaltab .nav-tabs.nav-tabs-left li a,
+.verticaltab .nav-tabs.nav-tabs-right li a {
+	background: #e59400;
+}
+
+.post-container .btags a {
+	background: #e59400;
+}
+
+body {
+	font-size: 14px;
+}
+
+.hs-inner .mainpage_title,
+.singlepage-title {
+	font-size: 31px;
+}
+
+.content-title {
+	font-size: 16px;
+}
+
+.hs-menu nav a .menu_name {
+	font-size: 15px;
+}
+
+@-webkit-keyframes pulse {
+	0% {
+		box-shadow: 0 0 0 .1em #e59400;
+	}
+	100% {
+		box-shadow: 0 0 0 3em transparent;
+	}
+}
+
+@keyframes pulse {
+	0% {
+		box-shadow: 0 0 0 .1em #e59400;
+	}
+	100% {
+		box-shadow: 0 0 0 3em transparent;
+	}
+}
+
+#my-link {
+	background: #e59400;
+}
+
+.hs-content-wrapper {
+	width: 5690px;
+}
+.hs-content {
+	width: 700px;
+}
+.sec-icon {
+	cursor: pointer;
+}
+.aside-footer {
+	padding: 5px;
+}
+.fa-facebook:hover {
+	color: #3b5998;
+}
+.fa-twitter:hover {
+	color: #55acee;
+}
+.fa-linkedin:hover {
+	color: #007bb5;
+}
+.about-card {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	height: 300px;
+}
+.about-card:hover {
+	cursor: pointer;
+}
+.card-face {
+	height: 100%;
+}
+.technical {
+	float: right;
+	margin-right: 2em;
+	font-size: 15px;
+}
